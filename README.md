@@ -1,5 +1,8 @@
 ## Hi there 👋 I’m currently working on improving my MERN skill.
 
+## Date:- 24 May 2026 Progress:- “I can independently build and deploy
+a medium-size full-stack application.”
+
 <!--
 **codewithom-hub/codewithom-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
